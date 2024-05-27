@@ -19,4 +19,5 @@
   <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Davi-Mario" height="50" width="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fawesome-mario-good-luck-W23aKzDl1OFRAcki9z&psig=AOvVaw07wCVdKtkGrlhfc7c7ryDe&ust=1716933824464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiV9YfrroYDFQAAAAAdAAAAABAW">
 </div>
