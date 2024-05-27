@@ -5,6 +5,7 @@
 - 💬 Sou Desenvolvedor front-end que está sempre procurando aprender coisas novas
 - 😄 Pronomes: ele/dele
 - 📬 Contate-me: daviangelo977@gmail.com
+##
 
 - <div>
   <a href="https://github.com/D-angeloo">
