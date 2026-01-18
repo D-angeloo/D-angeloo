@@ -4,7 +4,7 @@
 - 🌱 Estudando Typescript e ReactJS
 - 💬 Sou Desenvolvedor front-end que está sempre procurando aprender coisas novas
 - 😄 Pronomes: ele/dele
-- 📬 Contate-me: daviangelo977@gmail.com
+- 📬 Contate-me: daviangelo977@gmail.com / https://www.linkedin.com/in/davi-angelo-a0130a2a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ##
 
 - <div>
