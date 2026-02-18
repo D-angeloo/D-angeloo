@@ -1,6 +1,6 @@
 <h1>
   Olá, eu sou o Davi Angelo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 </h1>
 
 
