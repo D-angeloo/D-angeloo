@@ -1,4 +1,7 @@
-## Olá! Eu sou o Davi Angelo 🤖
+<h1>
+  Olá, eu sou o Davi Angelo 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+</h1>
 
 
 - 🌱 Estudando Typescript e ReactJS
