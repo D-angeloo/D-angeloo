@@ -27,8 +27,6 @@
 
   <br><br>
 
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-angeloo&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" />
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer" width="100%" />
 
   ### Conecte-se comigo! 📫
